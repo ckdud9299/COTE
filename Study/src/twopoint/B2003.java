@@ -1,3 +1,6 @@
+// 다시풀어야함!!
+package twopoint;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

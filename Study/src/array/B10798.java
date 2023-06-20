@@ -1,3 +1,6 @@
+package array;
+
+
 import java.util.Scanner;
 
 public class B10798 {

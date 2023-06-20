@@ -1,6 +1,5 @@
-/* 문제
- 	N*M크기의 두 행렬 A와 B가 주어졌을 때, 두 행렬을 더하는 프로그램을 작성하시오.
- */
+package array;
+
 import java.util.*;
 
 public class B2738 {
