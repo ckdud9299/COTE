@@ -1,5 +1,5 @@
 // 다시풀어야함!!
-package twopoint;
+package day1_twopoint;
 
 import java.io.BufferedReader;
 import java.io.IOException;
