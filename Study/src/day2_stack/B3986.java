@@ -38,7 +38,7 @@ public class B3986 {
 					continue;
 				}
 				else {
-					if(str.charAt(j) == stack.peek()) { // top과 다음 들어올 문자가 다를때
+					if(str.charAt(j) == stack.peek()) { // top과 다음 들어올 문자가 같을 때
 						stack.pop();
 					}
 					else {
