@@ -71,10 +71,10 @@ public class B2468 {
     private static void BFS(int i, int j, int h) {
         Queue<int[]> queue = new LinkedList<>();
         queue.offer(new int[] {i,j});
+        visited[i][j] = true;
 
         while(!queue.isEmpty()){
             int now[] = queue.poll();
-            visited[i][j] = true;
 
             for(int k=0; k<4; k++){
                 int nx = now[0] + dx[k];
