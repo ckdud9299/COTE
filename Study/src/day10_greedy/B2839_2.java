@@ -1,3 +1,5 @@
+package day10_greedy;
+
 import java.util.Scanner;
 
 public class B2839_2 {

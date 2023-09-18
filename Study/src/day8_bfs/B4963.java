@@ -1,4 +1,4 @@
-package day8_BFS;
+package day8_bfs;
 
 import java.io.BufferedReader;
 import java.io.IOException;
